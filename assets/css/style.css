@@ -73,7 +73,7 @@ p {
 
 /* Classe */
 .main_bg {
-    background-image: url('../img/main_bg.svg');
+    background-image: url('../img/endless-constellation.svg');
     background-size: cover;
     background-position: center center;
     color: var(--white-color);
